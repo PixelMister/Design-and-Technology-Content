@@ -5,7 +5,12 @@ nav:
       - About: index.md
       - Version History: Home/version-history.md
   - Materials:
-      - About: Materials/hardwoods.md
+      - Hardwoods:
+        - Oak: Materials/oak.md
+        - Balsa: Materials/balsa.md
+        - Mahogany: Materials/Mahogany.md
+        - Beech: Materials/Beech.md
+        - Jelutong: Materials/Jelutong.md
 
 extra_css:
   - stylesheets/extra.css
