@@ -1,19 +1,72 @@
 # **Home**
 
-## Introduction
-### What is Pokengine?
-Pokengine is a community-driven platform focused on creating custom content, such as Regions or Dexes. It also offers a browser-based MMO that merges all the user-created content into one expansive game, though Regions can be kept separate and turned into standalone games if their creators prefer. 
+# **Home**
 
-At its core, Pokengine is an engine, not a game itself. The game aspect is built by the users, meaning Pokengine isn’t just one game but a collection of many, all rolled into one.
+## **Introduction**
+### **Design and Technology – A Level Support Wiki**
 
-The engine provides a suite of online, browser-based tools specifically designed to help users edit and build their own game worlds.  
+Welcome to the Design and Technology A Level Support Wiki. This platform has been created to provide clear, structured, and accessible support for students and teachers following the Pearson/Edexcel Design and Technology specification.
 
-### What is Mapbuilder?
-Mapbuilder is Pokengine’s tool for programming and integrating Tilefuser maps into the game engine. Only users who have been granted access to Mapbuilder can use it to add their maps to the game. 
+The aim of this resource is to break down complex theory into manageable sections, reinforce key concepts, and provide guidance that supports both classroom learning and independent study.
 
-Access to Mapbuilder is limited to those developing regions or trusted with the tool, as it provides a high level of control over the game engine.
+## **Purpose of This Wiki**
 
-Mapbuilder operates by using your Tilefuser map as a base, allowing you to add objects, NPCs, sprites, animations, and more to bring your map to life in the game. All map elements are implemented using Pokengine’s custom programming language, jCoad, which is the focus of this guide.
+This wiki is designed to:
 
-Before diving into programming, here are a few helpful tips to get you started with Mapbuilder.
+- Support understanding of core Design and Technology principles  
+- Provide concise explanations of key theoretical content  
+- Help students prepare effectively for examinations  
+- Offer structured revision materials aligned with the specification  
+- Act as a reference tool throughout the course  
 
+## **What You’ll Find Here**
+
+The content is organised into clear topic areas based on the specification. These include:
+
+### **Core Technical Principles**
+- Materials and their properties  
+- Performance characteristics of materials  
+- Methods of processing and manufacture  
+- Modern and smart materials  
+- Ecological and social footprint of materials  
+
+### **Core Designing and Making Principles**
+- Design processes and iterative design  
+- User-centred design and ergonomics  
+- Creativity, innovation, and problem-solving  
+- Communication of design ideas (sketching, CAD, modelling)  
+- Prototyping and testing  
+
+### **Specialist Technical Principles**
+- In-depth study of specific material areas (e.g. polymers, timbers, metals, textiles)  
+- Industrial and commercial manufacturing processes  
+- Quality control systems  
+- Use of machinery and emerging technologies  
+
+## **How to Use This Wiki**
+
+- Use it alongside your lessons to reinforce understanding  
+- Refer to specific sections when revising key topics  
+- Use diagrams, summaries, and examples to support learning  
+- Revisit weaker areas regularly to build confidence  
+
+## **Assessment Overview**
+
+The A Level Design and Technology course is assessed through:
+
+- **Written examinations** – testing knowledge and understanding of theory  
+- **Non-Exam Assessment (NEA)** – a substantial design and make project  
+
+This wiki provides support for the theory content only.
+
+---
+
+## **Contributing and Updating**
+
+This is a living resource and may be updated regularly to improve clarity, add examples, and reflect changes in the specification. Contributions and feedback are encouraged to ensure the content remains useful and relevant.
+
+---
+
+## **Key Takeaway**
+
+This wiki is your central hub for mastering A Level Design and Technology theory—use it consistently, actively engage with the content, and apply what you learn to both exams and coursework.
