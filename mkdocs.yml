@@ -6,11 +6,56 @@ nav:
       - Version History: Home/version-history.md
   - Materials:
       - Hardwoods:
-        - Oak: Materials/oak.md
-        - Balsa: Materials/balsa.md
-        - Mahogany: Materials/mahogany.md
-        - Beech: Materials/beech.md
-        - Jelutong: Materials/jelutong.md
+        - Oak: Materials/Woods/Hardwoods/oak.md
+        - Balsa: Materials/Woods/Hardwoods/balsa.md
+        - Mahogany: Materials/Woods/Hardwoods/mahogany.md
+        - Beech: Materials/Woods/Hardwoods/beech.md
+        - Jelutong: Materials/Woods/Hardwoods/jelutong.md
+      - Softwoods:
+        - Pine: Materials/Woods/Softwoods/pine.md
+        - Cedar: Materials/Woods/Softwoods/cedar.md
+        - Larch: Materials/Woods/Softwoods/larch.md
+        - Redwood: Materials/Woods/Softwoods/redwood.md
+      - Ferrous Metals:
+        - Mild Steel: Materials/Metals/Ferrous Metals/mildsteel.md
+        - Carbon Steels: Materials/Metals/Ferrous Metals/carbonsteels.md
+        - Cast Iron: Materials/Metals/Ferrous Metals/castiron.md
+      - Non-Ferrous Metals:
+        - Aluminium: Materials/Metals/Non Ferrous Metals/aluminium.md
+        - Copper: Materials/Metals/Non Ferrous Metals/copper.md
+        - Tin: Materials/Metals/Non Ferrous Metals/tin.md
+        - Zinc: Materials/Metals/Non Ferrous Metals/zinc.md
+      - Alloys:
+        - Stainless Steel: Materials/Metals/Alloys/stainlesssteel.md
+        - Duralumin: Materials/Metals/Alloys/duralumin.md
+        - Brass: Materials/Metals/Alloys/brass.md
+      - Thermoplastics:
+        - Acrylic: Materials/Polymers/Thermoplastics/acrylic.md
+        - Polyethylene: Materials/Polymers/Thermoplastics/polyethylene.md
+        - PET: Materials/Polymers/Thermoplastics/polyethyleneterephalate.md
+        - PVC: Materials/Polymers/Thermoplastics/polyvinylchloride.md
+        - PP: Materials/Polymers/Thermoplastics/polypropylene.md
+        - ABS: Materials/Polymers/Thermoplastics/acrylonitrilebutadienestyrene.md
+      - Thermosetting Plastics:
+        - Epoxy Resin: Materials/Polymers/Thermosetting Plastics/epoxyresin.md
+        - Polyester Resin: Materials/Polymers/Thermosetting Plastics/polyesterresin.md
+        - Urea Formaldehyde: Materials/Polymers/Thermosetting Plastics/ureaformaldehyde.md
+      - Elastomers:
+        - Rubber: Materials/Polymers/Elastomers/rubber.md
+      - Composites:
+      - Drawing Papers:
+      - Commercial Printing Papers:
+      - Boards:
+      - Natural Fibres:
+      - Manmade Fibres:
+      - Textile Treatments:
+      - Thermo-Ceramics:
+      - Shape Memory Alloys (SMAs):
+      - Reactive Glass:
+      - Liquid Crystal Displays (LCD):
+      - Photo-Chromic Materials:
+      - Thermo-Chromic Materials:
+      - Quantum Tunneling Composites:
 
 extra_css:
   - stylesheets/extra.css
