@@ -42,20 +42,6 @@ nav:
         - Urea Formaldehyde: Materials/Polymers/Thermosetting Plastics/ureaformaldehyde.md
       - Elastomers:
         - Rubber: Materials/Polymers/Elastomers/rubber.md
-      - Composites:
-      - Drawing Papers:
-      - Commercial Printing Papers:
-      - Boards:
-      - Natural Fibres:
-      - Manmade Fibres:
-      - Textile Treatments:
-      - Thermo-Ceramics:
-      - Shape Memory Alloys (SMAs):
-      - Reactive Glass:
-      - Liquid Crystal Displays (LCD):
-      - Photo-Chromic Materials:
-      - Thermo-Chromic Materials:
-      - Quantum Tunneling Composites:
 
 extra_css:
   - stylesheets/extra.css
