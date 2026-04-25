@@ -49,7 +49,7 @@ theme:
   name: material
 
   font:
-    text: Montserrat
+    text: Roboto
     code: Ubuntu Mono
   logo: assets/logo.png
   favicon: assets/favicon.png
