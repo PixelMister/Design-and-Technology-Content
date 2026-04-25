@@ -1,0 +1,156 @@
+site_name: Pokengine Documentation
+site_url: https://pokengine-new.readthedocs.io
+nav:
+  - Home: 
+      - About: index.md
+      - Version History: Home/version-history.md
+  - Using This Guide:
+      - Using This Guide: Using_This_Guide/understanding-guide.md
+      - About Mapbuilder: Using_This_Guide/what-is-mapbuilder.md
+      - About Tilefuser: Using_This_Guide/what-is-tilefuser.md
+      - Mapbuilder Syntax Guidelines:
+        - Object Syntax: Using_This_Guide/understanding-objects.md
+        - Definition Syntax: Using_This_Guide/understanding-definitions.md
+        - Variable Syntax: Using_This_Guide/understanding-variables.md
+        - Data Types: Using_This_Guide/understanding-datatypes.md
+  - Code Library:
+      - Objects: Code_Library/objects.md
+      - Entities: Code_Library/entities.md
+      - Triggers: Code_Library/triggers.md
+      - Conditions: Code_Library/conditions.md
+      - Battle Properties: Code_Library/battle-properties.md
+      - Pokemon Generation: Code_Library/pokemon-generation.md
+  - How-To Guides:
+      - Objects:
+        - Root Objects: HowTo_Guides/root-objects.md
+      - jCoad:
+        - Messages and Textboxes: HowTo_Guides/msg-and-textboxes.md
+        - Shop System: HowTo_Guides/shop-system.md
+        - PC System: HowTo_Guides/pc-system.md
+        - Move Relearner & Tutor: HowTo_Guides/move-relearner-tutor.md
+        - Outfit System: HowTo_Guides/outfit-system.md
+      - jCoad - Advanced:
+        - Smart Answers: HowTo_Guides/smart-answers.md
+        - NPC Trades: HowTo_Guides/npc-trades.md
+        - Happiness: HowTo_Guides/happiness.md
+        - Step Counter: HowTo_Guides/step-counter.md
+        - Overworld Damage and Status Effects: HowTo_Guides/overworld-damage-status-effects.md
+        - Kyledove's Item Sparkle System: HowTo_Guides/item-sparkle-system.md
+      - Region:
+        - Quest System: HowTo_Guides/quest-system.md
+        - Uploading Music: HowTo_Guides/uploading-music.md
+        - Music Settings: HowTo_Guides/music-settings.md
+        - Region TM Tutors: HowTo_Guides/region-tm-tutors.md
+        - Regional Weather Schedules: HowTo_Guides/regional-weather-schedule.md
+        - Region Travel: HowTo_Guides/region-travel.md
+      - Battles and Encounters:
+        - Grass Encounters: HowTo_Guides/grass-encounters.md
+        - Trainer Battles: HowTo_Guides/trainer-battles.md
+        - Non-Grass Encounters: HowTo_Guides/non-grass-encounters.md
+        - Horde Encounters: HowTo_Guides/horde-battles.md
+  - Utilities:
+      - Developer Resources:
+        - Tips & Tricks: Utilities/tips-and-tricks.md
+        - Cheat Sheet: Utilities/cheat-sheet.md
+        - Common Pitfalls: Utilities/common-pitfalls.md
+        - Variable Library: Utilities/variables.md
+      - Region & World Setup:
+        - Region Map Setup: Utilities/region-map-setup.md
+        - Region Vars: Utilities/region-variables.md
+        - Publishing a Region: Utilities/publishing-a-region.md
+      - Gameplay Systems:
+        - Buddy System: Utilities/buddy-system.md
+        - Fishing System: Utilities/fishing-system.md
+        - Version System: Utilities/version-system.md
+        - Obedience System: Utilities/obedience-system.md
+        - Battle AI: Utilities/battle-ai.md
+  - General Info:
+      - FAQ: About/faq.md
+      - Commonly Asked Questions: About/commonly-asked-questions.md
+      - Roles and Permissions: About/rolesandpermissions.md
+      - Using Tilefuser: About/tilefuserquickguide.md
+      - Request A Feature: About/request-a-feature.md
+      - Current Limitations: About/current-limitations.md
+
+
+extra_css:
+  - stylesheets/extra.css
+theme:
+  name: material
+
+  font:
+    text: Outfit
+    code: Ubuntu Mono
+  logo: assets/logo.png
+  favicon: assets/favicon.png
+  features:
+    - navigation.footer
+    - content.code.copy
+    - content.code.select
+    - content.code.annotate
+    - content.tooltips
+    - navigation.path
+    - navigation.top
+    - navigation.instant
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.expand
+    - navigation.sections
+    - navigation.tracking
+
+  palette:
+  # Dark Mode
+  - scheme: slate
+    toggle:
+      icon: material/weather-sunny
+      name: Dark Mode
+    primary: black
+    accent: orange
+
+      # Light Mode
+  - scheme: default
+    toggle:
+      icon: material/weather-night
+      name: Light Mode
+    primary: white
+    accent: orange
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - admonition
+  - pymdownx.details
+  - attr_list
+  - md_in_html
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.smartsymbols
+  - abbr
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra:
+  social:
+    - icon: fontawesome/solid/globe
+      link: https://pokengine.org
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/XkGpwvE
+  consent:
+    title: Cookie consent
+    description: >- 
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
