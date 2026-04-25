@@ -1,10 +1,5 @@
 # **Home**
-
-# **Home**
-
 ## **Introduction**
-### **Design and Technology – A Level Support Wiki**
-
 Welcome to the Design and Technology A Level Support Wiki. This platform has been created to provide clear, structured, and accessible support for students and teachers following the Pearson/Edexcel Design and Technology specification.
 
 The aim of this resource is to break down complex theory into manageable sections, reinforce key concepts, and provide guidance that supports both classroom learning and independent study.
@@ -59,13 +54,10 @@ The A Level Design and Technology course is assessed through:
 
 This wiki provides support for the theory content only.
 
----
-
 ## **Contributing and Updating**
 
 This is a living resource and may be updated regularly to improve clarity, add examples, and reflect changes in the specification. Contributions and feedback are encouraged to ensure the content remains useful and relevant.
 
----
 
 ## **Key Takeaway**
 
