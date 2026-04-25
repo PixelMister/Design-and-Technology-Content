@@ -1,5 +1,5 @@
-site_name: Pokengine Documentation
-site_url: https://pokengine-new.readthedocs.io
+site_name: A-Level Design and Technology Theory
+site_url: https://design-and-technology-a-level.readthedocs.io
 nav:
   - Home: 
       - About: index.md
@@ -49,7 +49,7 @@ theme:
   name: material
 
   font:
-    text: Outfit
+    text: Montserrat
     code: Ubuntu Mono
   logo: assets/logo.png
   favicon: assets/favicon.png
