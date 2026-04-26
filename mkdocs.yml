@@ -42,7 +42,62 @@ nav:
         - Urea Formaldehyde: Materials/Polymers/Thermosetting Plastics/ureaformaldehyde.md
       - Elastomers:
         - Rubber: Materials/Polymers/Elastomers/rubber.md
-
+      - Composites:
+        - Carbon Fibre: Materials/Composites/carbonfibre.md
+        - Glass Fibre: Materials/Composites/glassfibre.md
+        - MDF: Materials/Composites/mdf.md
+        - Hardboard: Materials/Composites/hardboard.md
+        - Chipboard: Materials/Composites/chipboard.md
+        - Plywood: Materials/Composites/plywood.md
+      - Drawing Papers:
+        - Layout Paper: Materials/Papers and Boards/Drawing Papers/layoutpaper.md
+        - Tracing Paper: Materials/Papers and Boards/Drawing Papers/tracingpaper.md
+        - Copier Paper: Materials/Papers and Boards/Drawing Papers/copierpaper.md
+        - Cartridge Paper: Materials/Papers and Boards/Drawing Papers/cartridgepaper.md
+      - Commercial Printing Papers:
+        - Bond Paper: Materials/Papers and Boards/Commercial Printing Papers/bondpaper.md
+        - Coated Paper: Materials/Papers and Boards/Commercial Printing Papers/coatedpaper.md
+      - Boards:
+        - Mounting Board: Materials/Papers and Boards/Boards/mountingboard.md
+        - Corrugated Board: Materials/Papers and Boards/Boards/corrugatedboard.md
+        - Foam Board: Materials/Papers and Boards/Boards/foamboard.md
+        - Folding Box Board: Materials/Papers and Boards/Boards/foldingboxboard.md
+        - Foil-Lined Board: Materials/Papers and Boards/Boards/foillinedboard.md
+      - Natural Fibres:
+        - Cotton: Materials/Textiles/Natural Fibres/cotton.md
+        - Linen: Materials/Textiles/Natural Fibres/linen.md
+        - Wool: Materials/Textiles/Natural Fibres/wool.md
+      - Manmade Fibres:
+        - Nylon: Materials/Textiles/Manmade Fibres/nylon.md
+        - Polypropylene: Materials/Textiles/Manmade Fibres/polypropylene.md
+        - Polyester: Materials/Textiles/Manmade Fibres/polyester.md
+      - Textile Treatments:
+        - PTFE: Materials/Textiles/Textile Treatments/ptfe.md
+      - Smart and Modern Materials:
+        - Thermo-Ceramics: Materials/Smart and Modern Materials/thermoceramics.md
+        - Shape Memory Alloys: Materials/Smart and Modern Materials/shapememoryalloys.md
+        - Reactive Glass: Materials/Smart and Modern Materials/reactiveglass.md
+        - Liquid Crystal Displays (LCD): Materials/Smart and Modern Materials/liquidcrystaldisplays.md
+        - Photo-Chromic Materials: Materials/Smart and Modern Materials/photochromicmaterials.md
+        - Thermo-Chromic Materials: Materials/Smart and Modern Materials/thermochromicmaterials.md
+        - Quantum Tunnelling Composites: Materials/Smart and Modern Materials/quantumtunnellingcomposites.md
+  - Characteristics:
+      - Conductivity: Characteristics/conductivity.md
+      - Strength: Characteristics/strength.md
+      - Elasticity: Characteristics/elasticity.md
+      - Malleability: Characteristics/malleability.md
+      - Ductility: Characteristics/ductility.md
+      - Hardness: Characteristics/hardness.md
+      - Toughness: Characteristics/toughness.md
+      - Durability: Characteristics/durability.md
+      - Biodegradability: Characteristics/biodegradability.md
+  - Processes, Techniques and Specialist Tools:
+      - Heat Treatments:
+        - Hardening: Processes, Techniques and Tools/Heat Treatments/hardening.md
+        - Tempering: Processes, Techniques and Tools/Heat Treatments/tempering.md
+        - Case Hardening: Processes, Techniques and Tools/Heat Treatments/casehardening.md
+        - Annealing: Processes, Techniques and Tools/Heat Treatments/annealing.md
+        - Normalising: Processes, Techniques and Tools/Heat Treatments/normalising.md
 extra_css:
   - stylesheets/extra.css
 theme:
