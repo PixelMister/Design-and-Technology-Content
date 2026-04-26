@@ -61,22 +61,6 @@
 }
 /* Make top navigation tabs span full width */
 .md-tabs__list {
-  justify-content: space-between;
-  width: 100%;
-}
-
-/* Allow tabs to shrink and wrap if needed */
-.md-tabs__item {
-  flex: 1 1 auto;
-  text-align: center;
-}
-
-/* Optional: allow wrapping instead of overflow */
-.md-tabs__list {
-  flex-wrap: wrap;
-}
-/* Remove max-width constraint from header container */
-.md-header__inner,
-.md-tabs__inner {
-  max-width: 100%;
+  flex-wrap: wrap !important;
+  justify-content: center;
 }
