@@ -4,7 +4,7 @@ nav:
   - Home: 
       - About: index.md
       - Version History: Home/version-history.md
-  - Materials:
+  - Topic 1:
       - Hardwoods:
         - Oak: Materials/Woods/Hardwoods/oak.md
         - Balsa: Materials/Woods/Hardwoods/balsa.md
@@ -81,7 +81,7 @@ nav:
         - Photo-Chromic Materials: Materials/Smart and Modern Materials/photochromicmaterials.md
         - Thermo-Chromic Materials: Materials/Smart and Modern Materials/thermochromicmaterials.md
         - Quantum Tunnelling Composites: Materials/Smart and Modern Materials/quantumtunnellingcomposites.md
-  - Characteristics:
+  - Topic 2:
       - Conductivity: Characteristics/conductivity.md
       - Strength: Characteristics/strength.md
       - Elasticity: Characteristics/elasticity.md
@@ -91,7 +91,7 @@ nav:
       - Toughness: Characteristics/toughness.md
       - Durability: Characteristics/durability.md
       - Biodegradability: Characteristics/biodegradability.md
-  - Processes, Techniques and Specialist Tools:
+  - Topic 3:
       - Heat Treatments:
         - Hardening: Processes, Techniques and Tools/Heat Treatments/hardening.md
         - Tempering: Processes, Techniques and Tools/Heat Treatments/tempering.md
@@ -212,7 +212,7 @@ nav:
           - Hot Foil Blocking: Processes, Techniques and Tools/Finishes/Paper and Board Finishes/hotfoilblocking.md
           - Embossing: Processes, Techniques and Tools/Finishes/Paper and Board Finishes/embossing.md
           - Specialist Tools: Processes, Techniques and Tools/Finishes/Paper and Board Finishes/paperandboardfinishestools.md
-  - Digital Technologies:
+  - Topic 4:
       - CAD: Digital Technologies/cad.md
       - CAM: Digital Technologies/cam.md
       - Rapid Prototyping: Digital Technologies/rapidprototyping.md
@@ -221,7 +221,7 @@ nav:
       - CNC Milling Machines: Digital Technologies/cncmillingmachines.md
       - CNC Laser: Digital Technologies/cnclaser.md
       - CNC Vinyl Cutters: Digital Technologies/cncvinylcutters.md
-  - Influencing Factors:
+  - Topic 5:
       - User Centred Design: Influencing Factors/User Centred Design/usercentreddesign.md
       - Anthropometrics and Ergonomics:
         - Sources and Applciation of Data: Influencing Factors/Anthropmetrics and Ergonomics/sourcesofdata.md
@@ -238,7 +238,7 @@ nav:
         - Post Modernism: Influencing Factors/Art History/postmodernism.md
         - Streamlining: Influencing Factors/Art History/streamlining.md
         - Memphis: Influencing Factors/Art History/memphis.md
-  - Technological Developments:
+  - Topic 6:
       - Mass Production:
         - The Consumer Society: Effects of Technological Development/Mass Production/consumersociety.md
         - Built In Obsolescence: Effects of Technological Development/Mass Production/builtinobsolescence.md
@@ -251,10 +251,10 @@ nav:
       - The Global Marketplace:
         - Multinational Companies: Effects of Technological Development/Global Marketplace/multinationalcompanies.md
         - Offshore Manufacturing: Effects of Technological Development/Global Marketplace/offshoremanufacturing.md
-  - Working Practices:
+  - Topic 7:
       - Safe Working Practices: Safe Working Practices, Hazards and Risk Assessments/safeworkingpractices.md
       - Hazards and Risk Assessments: Safe Working Practices, Hazards and Risk Assessments/hazardsandriskassessments.md
-  - Manufacturing Industries:
+  - Topic 8:
       - Production Methods:
         - One Off Production: Features of Manufacturing Industries/Production Methods/oneoffproduction.md
         - Batch Production: Features of Manufacturing Industries/Production Methods/batchproduction.md
@@ -275,7 +275,7 @@ nav:
         - Quick Response Manufacturing: Features of Manufacturing Industries/Systems/quickresponsemanufacturing.md
         - Data Integration: Features of Manufacturing Industries/Systems/dataintegration.md
         - Concurrent Manufacturing: Features of Manufacturing Industries/Systems/concurrentmanufacturing.md
-  - Ethical Designing:
+  - Topic 9:
       - Sustainable Development Issues:
         - Material Selection: Ethical Designing/Sustainable Development Issues/materialselection.md
         - Manufacture: Ethical Designing/Sustainable Development Issues/manufacture.md
@@ -286,7 +286,7 @@ nav:
       - Cleaner Technologies:
         - Cost Implications: Ethical Designing/Cleaner Technologies/costimplications.md
         - Sustainability: Ethical Designing/Cleaner Technologies/sustainability.md
-  - Current Legislation:
+  - Topic 10:
       - Legislation:
         - Consumer Rights Act 2015: Current Legislation/Legislation/consumerrightsact.md
         - Sale of Goods Act 1979: Current Legislation/Legislation/saleofgoodsact.md
@@ -294,7 +294,7 @@ nav:
         - Health and Safety Regulation: Current Legislation/Principles and Applications/healthandsafetyregulation.md
         - Health and Safety at Work Act 1974: Current Legislation/Principles and Applications/healthandsafetyatworkact.md
         - COSHH and VOCs: Current Legislation/Principles and Applications/coshhandvoc.md
-  - Information Handling, Modelling and Planning:
+  - Topic 11:
       - Data and Studies:
         - Marketing: Information Handling, Modelling and Planning/Data and Studies/marketing.md
         - Innovation Management: Information Handling, Modelling and Planning/Data and Studies/innovationmanagement.md
@@ -313,7 +313,7 @@ nav:
         - British Standards: Information Handling, Modelling and Planning/Standards/britishstandards.md
         - European Standards: Information Handling, Modelling and Planning/Standards/europeanstandards.md
         - International Standards: Information Handling, Modelling and Planning/Standards/internationalstandards.md
-  - Further Processes and Techniques:
+  - Topic 12:
       - Strategies:
         - User Centred Design: Further Process and Techniques/Strategies/usercentreddesign.md
         - Circular Economy: Further Process and Techniques/Strategies/circulareconomy.md
@@ -327,18 +327,7 @@ nav:
         - Introduction Stage: Further Process and Techniques/Product Life Cycle/introductionstage.md
         - Growth Stage: Further Process and Techniques/Product Life Cycle/growthstage.md
         - Maturity Stage: Further Process and Techniques/Product Life Cycle/maturitystage.md
-        - Decline Stage: Further Process and Techniques/Product Life Cycle/declinestage.md
-
-
-
-
-
-
-
-
-
-
-          
+        - Decline Stage: Further Process and Techniques/Product Life Cycle/declinestage.md   
 extra_css:
   - stylesheets/extra.css
 theme:
