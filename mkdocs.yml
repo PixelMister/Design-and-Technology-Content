@@ -98,6 +98,247 @@ nav:
         - Case Hardening: Processes, Techniques and Tools/Heat Treatments/casehardening.md
         - Annealing: Processes, Techniques and Tools/Heat Treatments/annealing.md
         - Normalising: Processes, Techniques and Tools/Heat Treatments/normalising.md
+        - Specialist Equipment: Processes, Techniques and Tools/Heat Treatments/heattreatmentsspecialisttools.md 
+      - Alloying:
+        - Alloying: Processes, Techniques and Tools/Alloying/alloying.md
+        - Specialist Equipment: Processes, Techniques and Tools/Alloying/alloyingspecialisttools.md
+      - Printing:
+        - Offset Lithology: Processes, Techniques and Tools/Printing/offsetlithology.md
+        - Flexography: Processes, Techniques and Tools/Printing/flexography.md
+        - Screen Printing: Processes, Techniques and Tools/Printing/screenprinting.md
+        - Gravure: Processes, Techniques and Tools/Printing/gravure.md
+        - Specialist Equipment: Processes, Techniques and Tools/Printing/printingspecialisttools.md
+      - Casting:
+        - Sand Casting: Processes, Techniques and Tools/Casting/sandcasting.md
+        - Investment Casting: Processes, Techniques and Tools/Casting/investmentcasting.md
+        - Die Casting: Processes, Techniques and Tools/Casting/diecasting.md
+        - Resin Casting: Processes, Techniques and Tools/Casting/resincasting.md
+        - Plaster of Paris: Processes, Techniques and Tools/Casting/plasterofparis.md
+        - Specialist Equipment: Processes, Techniques and Tools/Casting/castingspecialisttools.md
+      - Machining:
+        - Milling and Routing: Processes, Techniques and Tools/Machining/millingandrouting.md
+        - Drilling: Processes, Techniques and Tools/Machining/drilling.md
+        - Turning: Processes, Techniques and Tools/Machining/turning.md
+        - Stamping: Processes, Techniques and Tools/Machining/stamping.md
+        - Pressing: Processes, Techniques and Tools/Machining/pressing.md
+        - Specialist Equipment: Processes, Techniques and Tools/Machining/machiningspecialisttools.md 
+      - Lamination:
+        - Lamination: Processes, Techniques and Tools/Lamination/lamination.md
+        - Specialist Equipment: Processes, Techniques and Tools/Lamination/laminationspecialisttools.md
+      - Marking Out:
+        - Woods: Processes, Techniques and Tools/Marking Out Techniques/woods.md
+        - Metals: Processes, Techniques and Tools/Marking Out Techniques/metals.md
+        - Polymers: Processes, Techniques and Tools/Marking Out Techniques/polymers.md
+        - Papers and Boards: Processes, Techniques and Tools/Marking Out Techniques/paperandboards.md
+        - Specialist Equipment: Processes, Techniques and Tools/Marking Out Techniques/markingoutspecialisttools.md
+      - Specialist Equipment:
+        - Gauges:
+          - Marking Gauge:  Processes, Techniques and Tools/Tools and Equipment/Gauges/markinggauge.md
+          - Cutting Gauge: Processes, Techniques and Tools/Tools and Equipment/Gauges/cuttinggauge.md
+          - Mortise Gauge: Processes, Techniques and Tools/Tools and Equipment/Gauges/mortisegauge.md
+        - Callipers:
+          - Odd Leg Calliper: Processes, Techniques and Tools/Tools and Equipment/Callipers/oddlegcallipers.md
+          - Internal Calliper: Processes, Techniques and Tools/Tools and Equipment/Callipers/internalcallipers.md
+          - External Calliper: Processes, Techniques and Tools/Tools and Equipment/Callipers/externalcallipers.md
+        - Squares:
+          - Set Square: Processes, Techniques and Tools/Tools and Equipment/Squares/setsquare.md
+          - Try Square: Processes, Techniques and Tools/Tools and Equipment/Squares/trysquare.md
+          - Engineers Square: Processes, Techniques and Tools/Tools and Equipment/Squares/engineerssquare.md
+          - Mitre Square: Processes, Techniques and Tools/Tools and Equipment/Squares/mitresquare.md
+        - Micrometer and Vernier Callipers:
+          - Micrometer: Processes, Techniques and Tools/Tools and Equipment/Micrometer and Vernier Callipers/micrometer.md
+          - Vernier Calliper: Processes, Techniques and Tools/Tools and Equipment/Micrometer and Vernier Callipers/verniercalliper.md
+        - Densitometer: Processes, Techniques and Tools/Tools and Equipment/Densitometer/densitometer.md
+        - Dividers: Processes, Techniques and Tools/Tools and Equipment/Dividers/dividers.md
+        - Jigs and Fixtures:
+          - Jigs: Processes, Techniques and Tools/Tools and Equipment/Jigs and Fixtures/jigs.md
+          - Fixtures: Processes, Techniques and Tools/Tools and Equipment/Jigs and Fixtures/fixtures.md
+        - Go and No-Go Gauges:
+          - Go Gauges: Processes, Techniques and Tools/Tools and Equipment/Go and No-Go Gauges/gogauges.md
+          - No-Go Gauges: Processes, Techniques and Tools/Tools and Equipment/Go and No-Go Gauges/nogogauges.md
+      - Use of Media:
+        - Isometric Drawing: Processes, Techniques and Tools/Use of Media/Pictorial Drawing Methods/isometricdrawing.md
+        - Two-Point Perspective: Processes, Techniques and Tools/Use of Media/Pictorial Drawing Methods/twopointperspective.md
+        - 3rd Angle Projection: Processes, Techniques and Tools/Use of Media/Technical Information/thirdangleprojection.md
+        - Triangulation: Processes, Techniques and Tools/Use of Media/Technical Information/triangulation.md
+        - Nets: Processes, Techniques and Tools/Use of Media/Nets/netsdevelopments.md
+        - Translation: Processes, Techniques and Tools/Use of Media/Translation/translatingdrawings.md
+        - Report Writing: Processes, Techniques and Tools/Use of Media/Report Writing/reportwriting.md
+      - Joining Techniques:
+        - Adhesives:
+          - Contact Adhesives: Processes, Techniques and Tools/Adhesives/contactadhesive.md
+          - Acrylic Cement: Processes, Techniques and Tools/Adhesives/acryliccement.md
+          - Epoxy Resin: Processes, Techniques and Tools/Adhesives/epoxyresin.md
+          - PVA: Processes, Techniques and Tools/Adhesives/polyvinylacetate.md
+          - Hot Melt Glue: Processes, Techniques and Tools/Adhesives/hotmeltglue.md
+          - Cyanoacrylate: Processes, Techniques and Tools/Adhesives/cyanoacrylate.md
+          - Polystyrene Cement: Processes, Techniques and Tools/Adhesives/polystyrenecement.md
+          - Specialist Equipment: Processes, Techniques and Tools/Adhesives/adhesivesspecialisttools.md
+        - Mechanical Fixings:
+          - Screws: Processes, Techniques and Tools/Mechanical Fixings/screws.md
+          - Nuts: Processes, Techniques and Tools/Mechanical Fixings/nuts.md
+          - Bolts: Processes, Techniques and Tools/Mechanical Fixings/bolts.md
+          - Washers: Processes, Techniques and Tools/Mechanical Fixings/washers.md
+          - Rivets: Processes, Techniques and Tools/Mechanical Fixings/rivets.md
+          - Press: Processes, Techniques and Tools/Mechanical Fixings/press.md
+          - Specialist Equipment: Processes, Techniques and Tools/Machining/machiningspecialisttools.md
+        - Heat Fixing:
+          - Oxy-Acytylene Welding: Processes, Techniques and Tools/Heat Fixing/oxyacetylenewelding.md
+          - MIG Welding: Processes, Techniques and Tools/Heat Fixing/migwelding.md
+          - Brazing: Processes, Techniques and Tools/Heat Fixing/brazing.md
+          - Hard Soldering: Processes, Techniques and Tools/Heat Fixing/hardsoldering.md
+          - Soft Soldering: Processes, Techniques and Tools/Heat Fixing/softsoldering.md
+          - Specialist Equipment: Processes, Techniques and Tools/Heat Fixing/heatfixingtools.md
+        - Jointing:
+          - Traditional Wood Joints: Processes, Techniques and Tools/Jointing/traditionalwoodjoints.md
+          - Knockdown Fittings: Processes, Techniques and Tools/Jointing/knockdownfittings.md
+          - Specialist Equipment: Processes, Techniques and Tools/Jointing/jointingtools.md
+      - Finishing Methods:
+        - Traditional Techniques:
+          - Paints: Processes, Techniques and Tools/Finishes/Traditional Finishes/paints.md
+          - Varnishes: Processes, Techniques and Tools/Finishes/Traditional Finishes/varnishes.md
+          - Sealants: Processes, Techniques and Tools/Finishes/Traditional Finishes/sealants.md
+          - Preservatives: Processes, Techniques and Tools/Finishes/Traditional Finishes/preservatives.md
+          - Anodising: Processes, Techniques and Tools/Finishes/Traditional Finishes/anodising.md
+          - Electro-Plating: Processes, Techniques and Tools/Finishes/Traditional Finishes/electroplating.md
+          - Powder-Coating: Processes, Techniques and Tools/Finishes/Traditional Finishes/powdercoating.md
+          - Oil Coating: Processes, Techniques and Tools/Finishes/Traditional Finishes/oilcoating.md
+          - Galvanisation: Processes, Techniques and Tools/Finishes/Traditional Finishes/galvanisation.md
+          - Cathodic Protection: Processes, Techniques and Tools/Finishes/Traditional Finishes/cathodicprotection.md
+          - Specialist Equipment: Processes, Techniques and Tools/Finishes/Traditional Finishes/finishesspecialistools.md
+        - Paper and Board Finishing:
+          - Laminating: Processes, Techniques and Tools/Finishes/Paper and Board Finishes/paperlaminating.md
+          - Varnishing: Processes, Techniques and Tools/Finishes/Paper and Board Finishes/papervarnishing.md
+          - Hot Foil Blocking: Processes, Techniques and Tools/Finishes/Paper and Board Finishes/hotfoilblocking.md
+          - Embossing: Processes, Techniques and Tools/Finishes/Paper and Board Finishes/embossing.md
+          - Specialist Tools: Processes, Techniques and Tools/Finishes/Paper and Board Finishes/paperandboardfinishestools.md
+  - Digital Technologies:
+      - CAD: Digital Technologies/cad.md
+      - CAM: Digital Technologies/cam.md
+      - Rapid Prototyping: Digital Technologies/rapidprototyping.md
+      - CNC Lathes: Digital Technologies/cnclathes.md
+      - CNC Routers: Digital Technologies/cncrouters.md
+      - CNC Milling Machines: Digital Technologies/cncmillingmachines.md
+      - CNC Laser: Digital Technologies/cnclaser.md
+      - CNC Vinyl Cutters: Digital Technologies/cncvinylcutters.md
+  - Influencing Factors:
+      - User Centred Design: Influencing Factors/User Centred Design/usercentreddesign.md
+      - Anthropometrics and Ergonomics:
+        - Sources and Applciation of Data: Influencing Factors/Anthropmetrics and Ergonomics/sourcesofdata.md
+        - Ergonomic Factors: Influencing Factors/Anthropmetrics and Ergonomics/ergonomicfactors.md
+      - Form and Function:
+        - Form Over Function: Influencing Factors/Form and Function/formoverfunction.md
+        - Form Follows Function: Influencing Factors/Form and Function/formfollowsfunction.md
+      - Art History:
+        - Overview: Influencing Factors/Art History/overview.md
+        - Arts and Crafts: Influencing Factors/Art History/artsandcrafts.md
+        - Art Nouveau: Influencing Factors/Art History/artnouveau.md
+        - Bauhaus Modernist: Influencing Factors/Art History/bauhausmodernist.md
+        - Art Deco: Influencing Factors/Art History/artdeco.md
+        - Post Modernism: Influencing Factors/Art History/postmodernism.md
+        - Streamlining: Influencing Factors/Art History/streamlining.md
+        - Memphis: Influencing Factors/Art History/memphis.md
+  - Technological Developments:
+      - Mass Production:
+        - The Consumer Society: Effects of Technological Development/Mass Production/consumersociety.md
+        - Built In Obsolescence: Effects of Technological Development/Mass Production/builtinobsolescence.md
+        - Mass Production and Employment: Effects of Technological Development/Mass Production/massproductionemployment.md
+      - The New Industrial Age:
+        - Development and Manufacture of Products: Effects of Technological Development/New Industrial Age/computersandproductmanufacture.md
+        - Miniaturisation: Effects of Technological Development/New Industrial Age/miniaturisation.md
+        - The Use of Smart Materials: Effects of Technological Development/New Industrial Age/theuseofsmartmaterials.md
+        - Products from Innovative Applications: Effects of Technological Development/New Industrial Age/productfrominnovativeapplications.md
+      - The Global Marketplace:
+        - Multinational Companies: Effects of Technological Development/Global Marketplace/multinationalcompanies.md
+        - Offshore Manufacturing: Effects of Technological Development/Global Marketplace/offshoremanufacturing.md
+  - Working Practices:
+      - Safe Working Practices: Safe Working Practices, Hazards and Risk Assessments/safeworkingpractices.md
+      - Hazards and Risk Assessments: Safe Working Practices, Hazards and Risk Assessments/hazardsandriskassessments.md
+  - Manufacturing Industries:
+      - Production Methods:
+        - One Off Production: Features of Manufacturing Industries/Production Methods/oneoffproduction.md
+        - Batch Production: Features of Manufacturing Industries/Production Methods/batchproduction.md
+        - Mass Production: Features of Manufacturing Industries/Production Methods/massproduction.md
+        - Continuous Production: Features of Manufacturing Industries/Production Methods/continuousproduction.md
+      - Quality Monitoring Systems:
+        - Quality Control: Features of Manufacturing Industries/Quality Monitoring Systems/qualitycontrol.md
+        - Quality Assurance: Features of Manufacturing Industries/Quality Monitoring Systems/qualityassurance.md
+        - Total Quality Management: Features of Manufacturing Industries/Quality Monitoring Systems/totalqualitymanagement.md
+      - Systems:
+        - Production Scheduling and Logistics: Features of Manufacturing Industries/Systems/productionschedulinglogistics.md
+        - Robotics in Production: Features of Manufacturing Industries/Systems/robotics.md
+        - Materials Handling Systems: Features of Manufacturing Industries/Systems/materialshandlingsystems.md
+        - Flexible Management Systems: Features of Manufacturing Industries/Systems/flexiblemanufacturingsystems.md
+        - Lean Manufacturing: Features of Manufacturing Industries/Systems/leanmanufacturing.md
+        - Just-in-time Systems: Features of Manufacturing Industries/Systems/justintime.md
+        - Standardised Parts and Brought in Components: Features of Manufacturing Industries/Systems/standardisedpartsandbroughtcomponents.md
+        - Quick Response Manufacturing: Features of Manufacturing Industries/Systems/quickresponsemanufacturing.md
+        - Data Integration: Features of Manufacturing Industries/Systems/dataintegration.md
+        - Concurrent Manufacturing: Features of Manufacturing Industries/Systems/concurrentmanufacturing.md
+  - Ethical Designing:
+      - Sustainable Development Issues:
+        - Material Selection: Ethical Designing/Sustainable Development Issues/materialselection.md
+        - Manufacture: Ethical Designing/Sustainable Development Issues/manufacture.md
+        - Distribution: Ethical Designing/Sustainable Development Issues/distribution.md
+        - Use: Ethical Designing/Sustainable Development Issues/use.md
+        - Repair and Maintenance: Ethical Designing/Sustainable Development Issues/repairandmaintenance.md
+        - End of Life: Ethical Designing/Sustainable Development Issues/endoflife.md
+      - Cleaner Technologies:
+        - Cost Implications: Ethical Designing/Cleaner Technologies/costimplications.md
+        - Sustainability: Ethical Designing/Cleaner Technologies/sustainability.md
+  - Current Legislation:
+      - Legislation:
+        - Consumer Rights Act 2015: Current Legislation/Legislation/consumerrightsact.md
+        - Sale of Goods Act 1979: Current Legislation/Legislation/saleofgoodsact.md
+      - Principles and Applications:
+        - Health and Safety Regulation: Current Legislation/Principles and Applications/healthandsafetyregulation.md
+        - Health and Safety at Work Act 1974: Current Legislation/Principles and Applications/healthandsafetyatworkact.md
+        - COSHH and VOCs: Current Legislation/Principles and Applications/coshhandvoc.md
+  - Information Handling, Modelling and Planning:
+      - Data and Studies:
+        - Marketing: Information Handling, Modelling and Planning/Data and Studies/marketing.md
+        - Innovation Management: Information Handling, Modelling and Planning/Data and Studies/innovationmanagement.md
+        - Feasibility Studies: Information Handling, Modelling and Planning/Data and Studies/feasibilitystudies.md
+      - Modelling:
+        - Budgets: Information Handling, Modelling and Planning/Modelling/budgets.md
+        - Planning for Production: Information Handling, Modelling and Planning/Modelling/planningforproduction.md
+        - Selection of Tools: Information Handling, Modelling and Planning/Modelling/selectionoftools.md
+      - Intellectual Property:
+        - Overview: Information Handling, Modelling and Planning/Intellectual Property/ipoverview.md
+        - Patents: Information Handling, Modelling and Planning/Intellectual Property/patents.md
+        - Copyrights: Information Handling, Modelling and Planning/Intellectual Property/copyrights.md
+        - Design Rights: Information Handling, Modelling and Planning/Intellectual Property/designrights.md
+        - Trademarks: Information Handling, Modelling and Planning/Intellectual Property/trademarks.md
+      - Standards:
+        - British Standards: Information Handling, Modelling and Planning/Standards/britishstandards.md
+        - European Standards: Information Handling, Modelling and Planning/Standards/europeanstandards.md
+        - International Standards: Information Handling, Modelling and Planning/Standards/internationalstandards.md
+  - Further Processes and Techniques:
+      - Strategies:
+        - User Centred Design: Further Process and Techniques/Strategies/usercentreddesign.md
+        - Circular Economy: Further Process and Techniques/Strategies/circulareconomy.md
+        - Systems Thinking: Further Process and Techniques/Strategies/systemsthinking.md
+      - Project Management: 
+        - Critical Path Analysis: Further Process and Techniques/Project Management/criticalpathanalysis.md
+        - Scrum: Further Process and Techniques/Project Management/scrum.md
+        - Six Sigma: Further Process and Techniques/Project Management/sixsigma.md
+      - Life Cycle Analysis:
+        - Overview: Further Process and Techniques/Product Life Cycle/lcaoverview.md
+        - Introduction Stage: Further Process and Techniques/Product Life Cycle/introductionstage.md
+        - Growth Stage: Further Process and Techniques/Product Life Cycle/growthstage.md
+        - Maturity Stage: Further Process and Techniques/Product Life Cycle/maturitystage.md
+        - Decline Stage: Further Process and Techniques/Product Life Cycle/declinestage.md
+
+
+
+
+
+
+
+
+
+
+          
 extra_css:
   - stylesheets/extra.css
 theme:
