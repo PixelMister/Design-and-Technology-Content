@@ -75,3 +75,8 @@
 .md-tabs__list {
   flex-wrap: wrap;
 }
+/* Remove max-width constraint from header container */
+.md-header__inner,
+.md-tabs__inner {
+  max-width: 100%;
+}
