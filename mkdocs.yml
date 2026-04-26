@@ -363,6 +363,8 @@ theme:
     - navigation.expand
     - navigation.sections
     - navigation.tracking
+    - navigation.prune
+    - toc.integrate
 
   palette:
   # Dark Mode
