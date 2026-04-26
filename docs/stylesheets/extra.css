@@ -59,3 +59,19 @@
 [data-md-color-scheme="slate"] .md-tabs__item--active > .md-tabs__link {
   color: #ff9800; /* a warm orange tone, or any colour you like */
 }
+/* Make top navigation tabs span full width */
+.md-tabs__list {
+  justify-content: space-between;
+  width: 100%;
+}
+
+/* Allow tabs to shrink and wrap if needed */
+.md-tabs__item {
+  flex: 1 1 auto;
+  text-align: center;
+}
+
+/* Optional: allow wrapping instead of overflow */
+.md-tabs__list {
+  flex-wrap: wrap;
+}
