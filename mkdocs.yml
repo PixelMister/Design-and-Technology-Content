@@ -4,8 +4,6 @@ nav:
   - Home: 
       - About: index.md
       - Version History: Home/version-history.md
-  - Coursework:
-      - Introduction: Coursework/introductiontoyournea.md
   - Materials:
       - Hardwoods:
         - Oak: Materials/Woods/Hardwoods/oak.md
