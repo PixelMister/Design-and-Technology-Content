@@ -22,9 +22,9 @@ It is a carefully documented design process that demonstrates the following:
 
 <div class="grid cards" markdown>
 
-- :octicons-feed-person-16: Test
+- :mdi-numeric-1-circle: Test
 
-- :octicons-feed-person-16: Test
+- :mdi-numeric-2-circle: Test
 
 </div>
 
