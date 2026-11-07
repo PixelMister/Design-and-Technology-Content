@@ -22,9 +22,9 @@ It is a carefully documented design process that demonstrates the following:
 
 <div class="grid cards" markdown>
 
-- :mdi-numeric-1-circle: Test
+- :material-numeric-1-circle: Test
 
-- :mdi-numeric-2-circle: Test
+- :material-numeric-2-circle: Test
 
 </div>
 
