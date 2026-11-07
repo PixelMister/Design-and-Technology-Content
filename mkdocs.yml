@@ -5,8 +5,8 @@ nav:
       - About: index.md
       - Version History: Home/version-history.md
   - Coursework:
-      - Introduction: Coursework/introductiontocoursework.md
-      - Overview: Coursework/whatdoesasuccessfulnealooklike.md
+      - Introduction: Coursework/introduction.md
+      - Overview: Coursework/overview.md
   - Materials:
       - Hardwoods:
         - Oak: Materials/Woods/Hardwoods/oak.md
