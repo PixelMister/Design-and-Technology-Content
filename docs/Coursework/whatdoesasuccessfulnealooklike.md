@@ -21,11 +21,11 @@ It is a carefully documented design process that demonstrates the following:
  
  <div class="grid cards" markdown>
 
-- :fontawesome-solid-circle-1: What have I done?
-- :fontawesome-solid-circle-2: Why have I done it?
-- :fontawesome-solid-circle-3: What have I discovered or learnt?
-- :fontawesome-solid-circle-4: How has this influenced my design?
-- :fontawesome-solid-circle-5: What needs to happen next?
+- :fontawesome-solid-1: What have I done?
+- :fontawesome-solid-2: Why have I done it?
+- :fontawesome-solid-3: What have I discovered or learnt?
+- :fontawesome-solid-4: How has this influenced my design?
+- :fontawesome-solid-5: What needs to happen next?
 
 </div>
 
@@ -44,7 +44,7 @@ One of the most important skills at A-Level is recognising the difference betwee
 | **Evaluate** | Judge how successful or suitable something is using evidence. | Aluminium appears appropriate for the frame because the prototype remained sufficiently rigid during testing, although an alternative material may reduce production cost. |
 | **Justify** | Defend a decision using relevant evidence. | Aluminium was selected over mild steel because the client identified portability as a priority, and comparative testing demonstrated that the chosen section provided sufficient stiffness at a lower mass. |
 
-!!! note
+!!! info
 
     Your aim throughout the NEA should be to move beyond description and demonstrate analysis, evaluation and justification wherever appropriate.
 
@@ -60,5 +60,5 @@ The guide provides indicative page ranges for certain assessment areas. These ar
 !!! warning
 
     You are responsible for managing your project and making your own design decisions. However, your NEA is subject to assessment controls. Your final prototype must be produced under the required supervision, and your teacher will explain which activities can be undertaken independently and which must take place in controlled conditions.
-    
+
 Use independent study time for permitted activities such as research, analysis, planning, design development, portfolio organisation and reflection. Always follow your teacher's instructions regarding assessed work, workshop access and the use of assistance.

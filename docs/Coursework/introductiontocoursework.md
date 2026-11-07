@@ -1,7 +1,7 @@
 # A-LEVEL DESIGN AND TECHNOLOGY NEA Guide
 *The Complete Independent Study Handbook A step-by-step guide to achieving your potential in the Non-Examined Assessment (NEA)*
 
-### **INTRODUCTION: YOUR NEA PROJECT**
+### Your Coursework Project
 
 Your **Non-Examined Assessment (NEA)** is one of the most important parts of your A-Level Design and Technology qualification. 
 
@@ -16,36 +16,38 @@ Your NEA contributes **50% of your final A-Level grade and is assessed out of 12
 
 The project is divided into four main parts, containing eleven assessment areas.
 
-=== "Introduction"
-Part 1 establishes the foundation of your entire project.
+=== "Part 1 - Introduction"
 
-You will identify a design opportunity, investigate the needs of a client or user group, undertake relevant research and develop a design brief and technical specification.
+    Part 1 establishes the foundation of your entire project.
 
-Your aim is to understand the problem thoroughly before attempting to solve it.
+    You will identify a design opportunity, investigate the needs of a client or user group, undertake relevant research and develop a design brief and technical specification.
 
+    Your aim is to understand the problem thoroughly before attempting to solve it.
 
-=== "Design"
-Part 2 demonstrates your ability to work creatively and technically as a designer.
+=== "Part 2 - Design"
+    Part 2 demonstrates your ability to work creatively and technically as a designer.
 
-You should generate different ideas, develop promising solutions, experiment with materials and processes, test models, gather feedback and refine your final design.
+    You should generate different ideas, develop promising solutions, experiment with materials and processes, test models, gather feedback and refine your final design.
 
-The process should be iterative.
+    The process should be iterative.
 
-This means that your project should develop through a continuing sequence of designing, modelling, testing, reviewing and improving.
+    This means that your project should develop through a continuing sequence of designing, modelling, testing, reviewing and improving.
 
-=== "Make"
-Part 3 assesses your practical skills, selection and use of tools and equipment, safe working, accuracy, quality and ability to respond to problems during manufacture.
+=== "Part 3 - Make"
 
-Your prototype should demonstrate a suitably challenging level of practical skill and be sufficiently functional to test and evaluate.
+    Part 3 assesses your practical skills, selection and use of tools and equipment, safe working, accuracy, quality and ability to respond to problems during manufacture.
 
-Manufacturing must follow the required supervision and assessment arrangements.
+    Your prototype should demonstrate a suitably challenging level of practical skill and be sufficiently functional to test and evaluate.
 
-=== "Evaluate"
-Part 4 is to establish how successful your final prototype is.
+    Manufacturing must follow the required supervision and assessment arrangements.
 
-Your evaluation must use appropriate testing, evidence and client feedback.
+=== "Part 4 - Evaluate"
 
-You must also consider the wider social, moral, ethical and environmental impacts of your product.
+    Part 4 is to establish how successful your final prototype is.
+
+    Your evaluation must use appropriate testing, evidence and client feedback.
+
+    You must also consider the wider social, moral, ethical and environmental impacts of your product.
 
 
 ## Understanding the Assessment
@@ -67,6 +69,6 @@ You must also consider the wider social, moral, ethical and environmental impact
 
 Remember that all of these assessment areas are connected. For example, your research should inform your specification, your specification should influence your designs, and your final evaluation should establish how successfully your prototype meets those original requirements.
 
-!!! note "Remember"
+!!! info "Remember"
 
     All of these assessment areas are connected. For example, your research should inform your specification, your specification should influence your designs, and your final evaluation should establish how successfully your prototype meets those original requirements.
