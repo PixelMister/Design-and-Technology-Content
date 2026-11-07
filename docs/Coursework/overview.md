@@ -19,17 +19,12 @@ It is a carefully documented design process that demonstrates the following:
 
 #### At every stage, you should be able to answer five questions:
  
- <div class="grid cards" markdown>
 
-- :fontawesome-solid-1: What have I done?
+<div class="grid cards" markdown>
 
-- :fontawesome-solid-2: Why have I done it?
+- :octicons-feed-person-16: Test
 
-- :fontawesome-solid-3: What have I discovered or learnt?
-
-- :fontawesome-solid-4: How has this influenced my design?
-
-- :fontawesome-solid-5: What needs to happen next?
+- :octicons-feed-person-16: Test
 
 </div>
 
