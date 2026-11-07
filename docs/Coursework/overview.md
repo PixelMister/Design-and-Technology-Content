@@ -22,9 +22,13 @@ It is a carefully documented design process that demonstrates the following:
  <div class="grid cards" markdown>
 
 - :fontawesome-solid-1: What have I done?
+
 - :fontawesome-solid-2: Why have I done it?
+
 - :fontawesome-solid-3: What have I discovered or learnt?
+
 - :fontawesome-solid-4: How has this influenced my design?
+
 - :fontawesome-solid-5: What needs to happen next?
 
 </div>

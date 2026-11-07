@@ -375,7 +375,9 @@ theme:
     primary: white
     accent: orange
 
+
 markdown_extensions:
+  # Code highlighting
   - pymdownx.highlight:
       anchor_linenums: true
       line_spans: __span
@@ -383,23 +385,41 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
+
+  # Content tabs
   - pymdownx.tabbed:
       alternate_style: true
+
+  # Admonitions and collapsible sections
   - admonition
   - pymdownx.details
+
+  # Tables and formatting
+  - tables
   - attr_list
   - md_in_html
+
+  # Table of contents
+  - toc:
+      permalink: true
+
+  # Text formatting
   - pymdownx.caret
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
   - pymdownx.smartsymbols
   - abbr
+
+  # Task lists
   - pymdownx.tasklist:
       custom_checkbox: true
+
+  # Icons and emojis
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
 
 extra:
   social:
