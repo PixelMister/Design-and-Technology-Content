@@ -7,6 +7,18 @@ nav:
   - Coursework:
       - Introduction: Coursework/introduction.md
       - Overview: Coursework/overview.md
+      - Grid 1: Coursework/grid1.md
+      - Grid 2: Coursework/grid2.md
+      - Grid 3: Coursework/grid3.md
+      - Grid 4: Coursework/grid4.md
+      - Grid 5: Coursework/grid5.md
+      - Grid 6: Coursework/grid6.md
+      - Grid 7: Coursework/grid7.md
+      - Grid 8: Coursework/grid8.md
+      - Grid 9: Coursework/grid9.md
+      - Grid 10: Coursework/grid10.md
+      - Grid 11: Coursework/grid11.md
+      - Final Advice: Coursework/grid12finaladvice.md
   - Materials:
       - Hardwoods:
         - Oak: Materials/Woods/Hardwoods/oak.md

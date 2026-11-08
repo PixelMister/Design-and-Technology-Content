@@ -52,7 +52,7 @@ The A Level Design and Technology course is assessed through:
 - **Written examinations** – testing knowledge and understanding of theory  
 - **Non-Exam Assessment (NEA)** – a substantial design and make project  
 
-This wiki provides support for the theory content only.
+This wiki provides support for the both the theory and coursework elements of the A-Level Subject.
 
 ## **Contributing and Updating**
 
