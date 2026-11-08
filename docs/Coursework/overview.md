@@ -22,9 +22,37 @@ It is a carefully documented design process that demonstrates the following:
 
 <div class="grid cards" markdown>
 
-- :material-numeric-1-circle: Test
+- :material-numeric-1-circle: **What have I done?**
 
-- :material-numeric-2-circle: Test
+    ---
+
+    Describe the activity, research, modelling or design work you have completed.
+
+- :material-numeric-2-circle: **Why have I done it?**
+
+    ---
+
+    Explain the purpose of the activity and how it relates to your design brief.
+
+
+- :material-numeric-3-circle: **What have I discovered or learnt?**
+
+    ---
+
+    Identify the important findings, knowledge or feedback gained.
+
+- :material-numeric-4-circle: **How has this influenced my design?**
+
+    ---
+
+    Explain how your findings have informed your design decisions.
+
+- :material-numeric-5-circle: **What needs to happen next?**
+
+    ---
+
+    Identify your next steps and explain how they will help you progress.
+
 
 </div>
 
